@@ -2,6 +2,12 @@
 
 **Neural Style Transfer (PyTorch)** 
 
+#### Sample:
+
+Content || Style || Output
+![smaple](https://github.com/sahilg06/Dashtoon_GenAI_Assignment/assets/59660566/d0e0aa20-23a4-492f-8496-51ebf11c9e18)
+
+
 Dataset Used
 ---------- 
 **Content Dataset: MS Coco** 
